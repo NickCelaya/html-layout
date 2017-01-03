@@ -1,0 +1,30 @@
+.Heading{
+  height: 150px;
+  width: 100vw;
+  background-color: grey;
+  margin: auto;
+
+
+}
+
+.mainContent{
+  height: 600px;
+  width: 80vw;
+  background-color: white;
+  margin: auto;
+
+
+}
+
+
+.Footer{
+  height: 75px;
+  width: 80vw;
+  background-color: black;
+  margin: auto;
+
+}
+
+body{
+  background:lightgrey;
+}
