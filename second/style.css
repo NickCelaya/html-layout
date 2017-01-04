@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+.leftcolumn{
+  background-color: #4A90E2;
+  height: 100vh;
+  width: calc(100% / 3);
+  float: left;
+}
+
+.middlecolumn{
+  background-color: #50E3C2;
+  height: 100vh;
+  width:  calc(100% / 3);
+  float: left;
+}
+
+
+.rightcolumn{
+  background-color: #B8E986;
+  height: 100vh;
+  width: calc(100% / 3);
+  float: left;
+  position: relative;
+}
+
+.redbox {
+  background-color: #D0021B;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  height: 150px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  line-height: 25vh;
+
+}
+.redbox h1{
+  margin: 0;
+}
