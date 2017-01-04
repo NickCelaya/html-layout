@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+.firstRow{
+  position: relative;
+  background-color: #D8D8D8;
+  height:20vh;
+  width:100%;
+  padding-left: 15px;
+  padding-top: 10px
+
+}
+
+.bluebox{
+  position: absolute;
+  background-color: #4A90E2;
+  height:30px;
+  width:30px;
+}
+
+.thirdRow{
+
+}
+
+.fourthRow{
+
+}
+
+.fifthRow{
+
+
+}
+
+.sixthRow{
+
+}
+
+.seventhRow{
+
+}
